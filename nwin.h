@@ -4,6 +4,8 @@
 #define __nwin__version 1
 #include <ncurses.h>
 #include <curses.h>
+#include <cstring>
+#include <cstdlib>
 
 #include <iostream>
 using namespace std;
